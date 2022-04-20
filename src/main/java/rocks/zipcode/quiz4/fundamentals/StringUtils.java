@@ -16,6 +16,7 @@ public class StringUtils {
         return null;
     }
 
+    /* isogram (plural isograms) A word or phrase in which each letter occurs the same number of times. read the tests. */
     public static Boolean isIsogram(String str) {
         return null;
     }
